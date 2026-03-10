@@ -1,4 +1,4 @@
-# Replication Notes
+## Replication Operational Notes
 
 These notes capture operational considerations around database replication.
 They focus on reliability, consistency, and failure awareness rather than specific vendor implementations.
